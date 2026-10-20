@@ -3,7 +3,7 @@
 
 
 
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
